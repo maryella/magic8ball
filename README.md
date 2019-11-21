@@ -1,7 +1,7 @@
-##### Consult the Magic Eight Ball
+# Consult the Magic Eight Ball
 #### Build a React app that takes user input and consults the Magic Eight Ball API
 
-# API: https://8ball.delegator.com/
+### API: https://8ball.delegator.com/
 
 ### Requirements
 
